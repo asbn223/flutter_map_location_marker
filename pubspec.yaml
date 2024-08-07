@@ -19,7 +19,7 @@ dependencies:
   flutter_compass:
     git: https://github.com/helpisdev/flutter_compass.git
   flutter_map: ^7.0.0
-  geolocator: ^12.0.0
+  geolocator: ">=12.0.0 <14.0.0"
   latlong2: ^0.9.1
 
 dev_dependencies:
